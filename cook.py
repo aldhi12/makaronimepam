@@ -10,7 +10,7 @@ string = environ['string1']
 client = TelegramClient(StringSession(string), api_id, api_hash)
 
 
-bot = 'kampungmaifamA2bot'
+bot = 'kampungmaifamx4bot'
 cook = '/cook_minibacon_300'
 levelup = '/levelupGuild'
 restore = '/eat_holysnack'
