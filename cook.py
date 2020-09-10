@@ -25,7 +25,7 @@ async def main():
 			if text.find('Your energy is too low') != -1:
 				await client.send_message(bot, restore)
 				await asyncio.sleep(3)
-        await client.send_message(bot, restore)
+        			await client.send_message(bot, restore)
 				await asyncio.sleep(3)
 				await client.send_message(bot, cook)
 				await asyncio.sleep(3)
